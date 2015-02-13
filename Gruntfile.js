@@ -22,8 +22,9 @@ module.exports = function(grunt) {
       all: {
         src: [
         './bower_components/bootstrap/dist/css/bootstrap.min.css',
-        './css/grayscale.css',
-        './font-awesome/css/font-awesome.min.css'
+        './font-awesome/css/font-awesome.min.css',
+        './app/assets/stylesheets/custom.css',
+       
         ],
         dest: './public/assets/stylesheets/custom.css',
       },
