@@ -1,6 +1,12 @@
 # Bower 
 /node_modules
 /npm-debug.log
+/app
+/css
+/font-awesome
+/img
+/js
+/less
 /test/assets/package-*/
 /test/assets/temp-*/
 /test/reports
